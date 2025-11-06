@@ -1,8 +1,8 @@
-# 🚀 CppMiddleware
+🚀 CppMiddleware
 
 ### Composable request pipelines for modern C++ web servers
 
-CppMiddleware is a lightweight, header-only middleware framework for C++ that brings the **Express.js-style middleware chain** to the world of **native C++ servers**.
+CppMiddleware is a lightweight, header-only middleware framework for C++ that brings a **middleware chain** to the world of **native C++ servers**.
 
 It enables developers to build **clean, modular, and composable request handling pipelines**—perfect for embedding into any HTTP or networking server framework.
 
